@@ -1,0 +1,14 @@
+2025-09-20 08:55:21 | user=thelma | status=SUCCESS | ip=192.168.1.10
+2025-09-20 09:01:13 | user=trish   | status=FAILURE | ip=192.168.1.20
+2025-09-20 09:01:15 | user=trish  | status=FAILURE | ip=192.168.1.20
+2025-09-20 23:45:02 | user=vee | status=SUCCESS | ip=10.0.0.5
+2025-09-21 02:12:43 | user=taina | status=SUCCESS | ip=192.168.1.30
+2025-09-20 08:55:21 | user=alice | status=SUCCESS | ip=192.168.1.10
+2025-09-20 09:01:13 | user=bob   | status=FAILURE | ip=192.168.1.20
+2025-09-20 09:01:15 | user=bob   | status=FAILURE | ip=192.168.1.20
+2025-09-20 23:45:02 | user=charlie | status=SUCCESS | ip=10.0.0.5
+2025-09-21 02:12:43 | user=david | status=SUCCESS | ip=192.168.1.30
+2025-09-21 14:05:08 | user=emma | status=SUCCESS | ip=192.168.1.40
+2025-09-21 22:15:55 | user=frank | status=FAILURE | ip=192.168.1.50
+2025-09-21 22:16:01 | user=frank | status=FAILURE | ip=192.168.1.50
+2025-09-21 22:16:09 | user=frank | status=FAILURE | ip=192.168.1.50
